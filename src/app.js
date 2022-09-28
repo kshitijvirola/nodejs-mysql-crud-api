@@ -24,7 +24,7 @@ app.use(
       host: "localhost",
       user: "root",
       port: "3306",
-      password: "ProEx@2013",
+      password: "password",
       database: "upsi",
     },
     "single"
